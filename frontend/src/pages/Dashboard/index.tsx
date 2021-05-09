@@ -24,7 +24,7 @@ const Dashboard = () => {
         </div>
 
         <div className="py-3"></div>
-        <h2 className="text-primary"> Total de Vendas por dia</h2>
+        <h2 className="text-primary">Todas as Vendas</h2>
         <DataTable />
       </div>
       <Footer />
