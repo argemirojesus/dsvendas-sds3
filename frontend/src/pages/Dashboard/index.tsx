@@ -3,7 +3,6 @@ import DataTable from "components/DataTable";
 import DonutChar from "components/DonutChart";
 import Footer from "components/footer";
 import Navbar from "components/Navbar";
-import React from "react";
 
 const Dashboard = () => {
     return (
